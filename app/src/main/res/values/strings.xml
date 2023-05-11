@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="group_size">Group Size</string>
+    <string name="smoke">I\'m fine with a table in smoking area</string>
+    <string name="book">Book</string>
+    <string name="reset">Reset</string>
+    <string name="cnfrmName">"Name: "</string>
+    <string name="cnfrm_mobile_number">\nMobile Number</string>
+</resources>
